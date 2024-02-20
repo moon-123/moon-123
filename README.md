@@ -51,8 +51,8 @@
 
 ### Cloud
 <p>
-    <img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS ECS-purple?style=flat&logo=amazonecs&logoColor=4479A1"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/AWS S3-green?style=flat&logo=amazons3&logoColor=white"/>
 </p>
 
 ### Tools
