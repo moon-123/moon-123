@@ -10,7 +10,7 @@
 ### Blog
 
 <p>
-  <a href="caramelbottle.tistory.com" target="_blank">
+  <a href="https://caramelbottle.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-FDB5B5?style=for-the-badge&logo=tistory&logoColor=black"/>
   </a>
 </p>
