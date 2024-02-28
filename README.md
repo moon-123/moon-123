@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>&nbsp;&nbsp;
 </p>
-
-#
-<a href="https://github.com/moon-123"><img align="center" src="https://github-readme-stats.vercel.app/api?username=moon-123&show_icons=true&theme=tokyonight" alt="Moon's github stats"></a>  
-<a href="https://github.com/moon-123"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moon-123&layout=compact&theme=tokyonight" alt="Top Langs"></a>
+---------------
+    
+<a href="https://github.com/moon-123?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=moon-123&show_icons=true&theme=tokyonight" alt="Moon's github stats"></a>  
+<a href="https://github.com/moon-123?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moon-123&layout=compact&theme=tokyonight" alt="Top Langs"></a>
