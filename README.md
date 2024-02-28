@@ -1,8 +1,6 @@
 # 👋 Welcome 
 
 <a href="https://github.com/moon-123"><img align="center" src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=250&section=header&text=Moon&fontSize=90"></a>
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=250&section=header&text=Moon&fontSize=90)
-
 
 ### E-mail 
 <p>
@@ -75,6 +73,5 @@
 </p>
 
 #
-
-![Moon's github stats](https://github-readme-stats.vercel.app/api?username=moon-123&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moon-123&layout=compact&theme=tokyonight)
+<a href="https://github.com/moon-123"><img align="center" src="https://github-readme-stats.vercel.app/api?username=moon-123&show_icons=true&theme=tokyonight" alt="Moon's github stats"></a>
+<a href="https://github.com/moon-123"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moon-123&layout=compact&theme=tokyonight" alt="Top Langs"></a>
